@@ -26,7 +26,7 @@ and continuous improvement and I think my ideal company should encourage this ap
 
 # 📫 How to reach me
 
-- [Personal Website](https://www.dan-the-dev.it/)
+- [Personal Website](https://danthedev.carrd.co/)
 - [LinkedIn](https://www.linkedin.com/in/daniele-scillia/)
 - [Email](mailto:daniele.scillia@gmail.com)
 
