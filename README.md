@@ -16,7 +16,6 @@ and continuous improvement and I think my ideal company should encourage this ap
 
 # 🌱 Currently Learning
 - Refactoring: technique to improve code by safely refactoring it. Book: [Refactoring: Improving the design of existing code](https://amzn.to/2XnT0oa)
-- Professional PHP: applying Clean Code in PHP. Book: [Professional PHP: Building maintainable and secure applications](https://amzn.to/3zj1av5)
 
 # 💞️ Enjoy my content
 
