@@ -1,16 +1,14 @@
 # Who am I
 👋 Hi, I’m @dan-the-dev. 
 
-Software Developer with passion and almost 10 years of experience, 
+Software Developer with a great passion and 10 years of experience, 
 I started studying in high school in this field with the aim of living it and I succeeded: today I happily do a job that I'm passionate about.
 Strongly fascinated and passionate about concepts such as Automated Testing and Agile Practices to make the work effective and qualitatively better, 
-I like to take the time to stay up to date on the latest technologies and methodologies: 
-I think it's very important to keep the curiosity about what's new coming through courses, conferences, meetups 
-and continuous improvement and I think my ideal company should encourage this approach. 
+I like to take the time to stay up to date on the latest technologies and methodologies: I think it's very important to keep the curiosity about what's new coming through courses, conferences, meetups and continuous improvement and I think my ideal company should encourage this approach. 
 
 # 👀 Interests
-- Agile Technical Practices
-- Product Development
+- Agile Technical Practices - TDD, OOP The Right Way, DDD
+- Product Development - MVP, MLP, Continuous iterations
 - Lean Development
 - DevOps
 
