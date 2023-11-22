@@ -13,7 +13,7 @@ But really? I create magical digital tools that make the users fall in love with
 - Lean Software Development & DevOps
 
 # 🌱 Currently Learning
-- Accelerate: Building and Scaling High Performing Technology Organizations. Book: [Accelerate]([https://amzn.to/2XnT0oa](https://amzn.to/47Krosc))
+- Accelerate: Building and Scaling High Performing Technology Organizations. Book: [Accelerate](https://amzn.to/3R7uK2O)
 
 # 📜 Learn Agile Practices
 
