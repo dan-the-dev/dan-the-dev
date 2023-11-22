@@ -1,30 +1,36 @@
 # Who am I
 👋 Hi, I’m @dan-the-dev. 
 
-Software Developer with a great passion and 10 years of experience, 
-I started studying in high school in this field with the aim of living it and I succeeded: today I happily do a job that I'm passionate about.
-Strongly fascinated and passionate about concepts such as Automated Testing and Agile Practices to make the work effective and qualitatively better, 
-I like to take the time to stay up to date on the latest technologies and methodologies: I think it's very important to keep the curiosity about what's new coming through courses, conferences, meetups and continuous improvement and I think my ideal company should encourage this approach. 
+🚀 I’m a Software Developer and Technical Coach, deeply involved in Agile practices.
+
+Officially, my job is to code to develop the software that will make my company achieve its goals while also investing time in setting up learning and growth activities for the team to make people grow.
+
+But really? I create magical digital tools that make the users fall in love with the vision and mission of my company while inspiring and guiding developers to aim at becoming the best version of themselves through continuous improvement and learning agile practices.
 
 # 👀 Interests
-- Agile Technical Practices - TDD, OOP The Right Way, DDD
-- Product Development - MVP, MLP, Continuous iterations
-- Lean Development
-- DevOps
+- Agile Technical Practices - TDD, OOP The Right Way, DDD, CI, CD, TBD
+- Product Development - MVP, MLP, Continuous iterations & discovery, spikes
+- Lean Software Development & DevOps
 
 # 🌱 Currently Learning
-- Refactoring: technique to improve code by safely refactoring it. Book: [Refactoring: Improving the design of existing code](https://amzn.to/2XnT0oa)
+- Accelerate: Building and Scaling High Performing Technology Organizations. Book: [Accelerate]([https://amzn.to/2XnT0oa](https://amzn.to/47Krosc))
 
-# 💞️ Enjoy my content
+# 📜 Learn Agile Practices
 
-- [Youtube](https://www.youtube.com/channel/UCow5aybmZhzR7HbPf8JmcmA)
-- [Podcast](https://open.spotify.com/show/2ivOpZJj1py7bcGpiCfeHp)
-- [Medium blog](https://medium.com/@dan-the-dev)
+Learn Agile Practices is the home of continuous improvement and learning for Software Developers.
+
+Do you want to become a real agile software developer and stay ahead of the curve in your career? I create a lot of content about the most in-demand Agile Practices, including eXtreme Programming, Pair Programming, TDD, Object-Oriented Programming, etc. You can subscribe to my newsletter for free to stay updated - or you can subscribe to the "Learn Agile Practices" membership to gain access to my micro-learning platform, where you can find courses and lessons and even participate in Group Discussions and Virtual Classrooms, and also access the Discord server and other benefits.
+While those are both free, I also offer many Premium content and services via Gumroad digital products: with those, you can become the best developer you ever imagined to be, have a look!
+
+- [Learn Agile Practices Newsletter 🇬🇧](https://learnagilepractices.substack.com/about)
+- [Youtube 🇮🇹](https://www.youtube.com/channel/UCow5aybmZhzR7HbPf8JmcmA)
+- [Podcast 🇮🇹](https://open.spotify.com/show/1Sib1L0UJFqxVGW5VxZcJW)
 
 # 📫 How to reach me
 
 - [Personal Website](https://danthedev.carrd.co/)
 - [LinkedIn](https://www.linkedin.com/in/daniele-scillia/)
+- [Twitter](https://twitter.com/danielescillia)
 - [Email](mailto:daniele.scillia@gmail.com)
 
 <!---
