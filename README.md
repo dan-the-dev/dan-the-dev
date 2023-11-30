@@ -13,7 +13,9 @@ But really? I create magical digital tools that make the users fall in love with
 - Lean Software Development & DevOps
 
 # 🌱 Currently Learning
-- Accelerate: Building and Scaling High Performing Technology Organizations. Book: [Accelerate](https://amzn.to/3R7uK2O)
+
+- Clean Code: A Handbook of Agile Software Craftsmanship. Book: [Clean Code](https://amzn.to/410Loo8)
+- Go & Ruby programming languages
 
 # 📜 Learn Agile Practices
 
