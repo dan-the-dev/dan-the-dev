@@ -9,13 +9,12 @@ But really? I create magical digital tools that make the users fall in love with
 
 # 👀 Interests
 - Agile Technical Practices - TDD, OOP The Right Way, DDD, CI, CD, TBD
-- Product Development - MVP, MLP, Continuous iterations & discovery, spikes
+- Product Development - MVP, MLP, Continuous iterations & discovery
 - Lean Software Development & DevOps
 
 # 🌱 Currently Learning
 
-- Clean Code: A Handbook of Agile Software Craftsmanship. Book: [Clean Code](https://amzn.to/410Loo8)
-- Go & Ruby programming languages
+- Implementing Lean Software Development. Book: [Clean Code](https://amzn.to/3YejYLJ)
 
 # 📜 Learn Agile Practices
 
