@@ -7,14 +7,14 @@ Officially, my job is to code to develop the software that will make my company 
 
 But really? I create magical digital tools that make the users fall in love with the vision and mission of my company while inspiring and guiding developers to aim at becoming the best version of themselves through continuous improvement and learning agile practices.
 
-# 👀 Interests
+# 👀 Top Interests
 - Agile Technical Practices - TDD, OOP The Right Way, DDD, CI, CD, TBD
 - Product Development - MVP, MLP, Continuous iterations & discovery
 - Lean Software Development & DevOps
 
 # 🌱 Currently Learning
 
-- Implementing Lean Software Development. Book: [Clean Code](https://amzn.to/3YejYLJ)
+- When Will It Be Done?. Book: [When Will It Be Done?]([https://amzn.to/3YejYLJ](https://amzn.to/4aytw8S))
 
 # 📜 Learn Agile Practices
 
@@ -33,6 +33,7 @@ While those are both free, I also offer many Premium content and services via Gu
 - [LinkedIn](https://www.linkedin.com/in/daniele-scillia/)
 - [Twitter](https://twitter.com/danielescillia)
 - [Email](mailto:daniele.scillia@gmail.com)
+- [Telegram](https://t.me/dan_the_dev)
 
 <!---
 dan-the-dev/dan-the-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
